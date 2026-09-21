@@ -1,10 +1,11 @@
 .vscode/
 __pycache__/
 *.pyc
+
 Maths.csv
 Maths.xlsx
 hello.py
-readmee.md
 student.csv
 tested.csv
 flappy bird.code-workspace
+README.md
